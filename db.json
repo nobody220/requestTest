@@ -1,24 +1,24 @@
 {
   "posts": [
-    { "id": 1, "type": "n", "device":1, "year":1, "price": 100, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":1, "year":2, "price": 105, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":1, "year":3, "price": 110, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":1, "year":1, "price": 100, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":1, "year":2, "price": 105, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":1, "year":3, "price": 110, "min_quzntity":1, "max_quantity":5 },
 
-    { "id": 1, "type": "n", "device":2, "year":1, "price": 150, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":2, "year":2, "price": 155, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":2, "year":3, "price": 160, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":2, "year":1, "price": 150, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":2, "year":2, "price": 155, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":2, "year":3, "price": 160, "min_quzntity":1, "max_quantity":5 },
 
-    { "id": 1, "type": "n", "device":3, "year":1, "price": 200, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":3, "year":2, "price": 205, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":3, "year":3, "price": 210, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":3, "year":1, "price": 200, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":3, "year":2, "price": 205, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":3, "year":3, "price": 210, "min_quzntity":1, "max_quantity":5 },
 
-    { "id": 1, "type": "n", "device":4, "year":1, "price": 250, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":4, "year":2, "price": 255, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":4, "year":3, "price": 260, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":4, "year":1, "price": 250, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":4, "year":2, "price": 255, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":4, "year":3, "price": 260, "min_quzntity":1, "max_quantity":5 },
 
-    { "id": 1, "type": "n", "device":5, "year":1, "price": 300, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":5, "year":2, "price": 305, "min_quzntity":1, "max_quantity":5 },
-    { "id": 1, "type": "n", "device":5, "year":3, "price": 310, "min_quzntity":1, "max_quantity":5 }
+    { "product_code": 1, "type": "n", "quantity":5, "year":1, "price": 300, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":5, "year":2, "price": 305, "min_quzntity":1, "max_quantity":5 },
+    { "product_code": 1, "type": "n", "quantity":5, "year":3, "price": 310, "min_quzntity":1, "max_quantity":5 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
